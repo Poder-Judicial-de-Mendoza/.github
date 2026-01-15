@@ -1,3 +1,103 @@
+
+we are a dev team from mendoza argentina.
+we like new techs, full stack.
+we are the IT area from the judiciary court of mendoza argentina.
+
+give me a cool readme.md to put in the  github organization readme 
+
+this is the current 
+
+## Hi there 👋
+<!--
+**Here are some ideas to get you started:**
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
+
+Show more
+12:31 PM
+I'll create a cool README.md for your GitHub organization that reflects your team's identity and work!
+
+
+Creating a modern, engaging README.md for the Mendoza Judiciary Court IT team's GitHub organization
+README.md
+
+Presented file
+Here's your cool new README! I included:
+
+Shields/badges for a modern look
+Your location and full-stack identity
+References to Mendoza culture (mate, Malbec, Andes, asados)
+A tech stack section you can customize
+Space to showcase your projects
+Fun facts that give personality to your team
+A code snippet that reflects your philosophy
+Feel free to customize the tech stack, update the organization name placeholder, add your actual contact info, and adjust anything to match your team's vibe! 🚀
+
+Readme
+Document · MD 
+can you add profile icons? we are 5 devs i can complete the urls from an S3 bucket
+
+12:32 PM
+
+1 step
+
+Copy the updated README to outputs directory
+
+
+
+Presented file
+Perfect! I've added a "Meet The Team" section with a nice table layout for 5 developers. You can now:
+
+Replace YOUR_S3_BUCKET_URL/dev1.jpg through dev5.jpg with your actual S3 URLs
+Add each developer's name
+Add their role/specialty (like "Frontend Lead", "DevOps Engineer", "Full Stack", etc.)
+The profile images will display as 100px circular avatars in a clean horizontal layout. Just paste in your S3 URLs and team info! 🎉
+
+Readme
+Document · MD 
+[13:17, 1/15/2026] Mauro Bonadeo: https://storage.googleapis.com/pjm-assets-team-1/profile/Carolina.png
+[13:17, 1/15/2026] Mauro Bonadeo: https://storage.googleapis.com/pjm-assets-team-1/profile/Martin.png
+[13:17, 1/15/2026] Mauro Bonadeo: https://storage.googleapis.com/pjm-assets-team-1/profile/Mauro.png
+[13:17, 1/15/2026] Mauro Bonadeo: https://storage.googleapis.com/pjm-assets-team-1/profile/Raul.png
+[13:17, 1/15/2026] Mauro Bonadeo: https://storage.googleapis.com/pjm-assets-team-1/profile/Silvia.png
+[13:17, 1/15/2026] Mauro Bonadeo: https://storage.googleapis.com/pjm-assets-team-1/profile/Daniel.png
+reeplace those profiles with this urs
+
+1:19 PM
+
+1 step
+
+Copy the updated README with real profile URLs to outputs
+
+
+
+Presented file
+Done! I've updated the README with all 6 team members (I noticed you actually have 6 devs, not 5 😊):
+
+Carolina
+Martin
+Mauro
+Daniel
+Raul
+Silvia
+All the profile images are now linked to your Google Cloud Storage URLs. Feel free to customize their roles/specialties if you want to differentiate them (like "Tech Lead", "Backend Specialist", "DevOps", etc.) instead of all saying "Full Stack Developer"! 🚀
+
+Readme
+Document · MD 
+
+
+Want to be notified when Claude responds?
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+Readme · MD
+Copy
+
 # 🏛️ Poder Judicial de Mendoza - IT Department
 
 <div align="center">
@@ -30,29 +130,34 @@ From the foothills of the Andes 🏔️ to the cloud ☁️, we're passionate ab
 <table>
   <tr>
     <td align="center">
-      <img src="YOUR_S3_BUCKET_URL/dev1.jpg" width="100px;" alt="Dev 1"/><br />
-      <sub><b>Developer Name</b></sub><br />
-      <sub>Role/Specialty</sub>
+      <img src="https://storage.googleapis.com/pjm-assets-team-1/profile/Carolina.png" width="100px;" alt="Carolina"/><br />
+      <sub><b>Carolina</b></sub><br />
+      <sub>Full Stack Developer</sub>
     </td>
     <td align="center">
-      <img src="YOUR_S3_BUCKET_URL/dev2.jpg" width="100px;" alt="Dev 2"/><br />
-      <sub><b>Developer Name</b></sub><br />
-      <sub>Role/Specialty</sub>
+      <img src="https://storage.googleapis.com/pjm-assets-team-1/profile/Martin.png" width="100px;" alt="Martin"/><br />
+      <sub><b>Martin</b></sub><br />
+      <sub>Full Stack Developer</sub>
     </td>
     <td align="center">
-      <img src="YOUR_S3_BUCKET_URL/dev3.jpg" width="100px;" alt="Dev 3"/><br />
-      <sub><b>Developer Name</b></sub><br />
-      <sub>Role/Specialty</sub>
+      <img src="https://storage.googleapis.com/pjm-assets-team-1/profile/Mauro.png" width="100px;" alt="Mauro"/><br />
+      <sub><b>Mauro</b></sub><br />
+      <sub>Full Stack Developer</sub>
     </td>
     <td align="center">
-      <img src="YOUR_S3_BUCKET_URL/dev4.jpg" width="100px;" alt="Dev 4"/><br />
-      <sub><b>Developer Name</b></sub><br />
-      <sub>Role/Specialty</sub>
+      <img src="https://storage.googleapis.com/pjm-assets-team-1/profile/Raul.png" width="100px;" alt="Raul"/><br />
+      <sub><b>Raul</b></sub><br />
+      <sub>Full Stack Developer</sub>
     </td>
     <td align="center">
-      <img src="YOUR_S3_BUCKET_URL/dev5.jpg" width="100px;" alt="Dev 5"/><br />
-      <sub><b>Developer Name</b></sub><br />
-      <sub>Role/Specialty</sub>
+      <img src="https://storage.googleapis.com/pjm-assets-team-1/profile/Silvia.png" width="100px;" alt="Silvia"/><br />
+      <sub><b>Silvia</b></sub><br />
+      <sub>Full Stack Developer</sub>
+    </td>
+    <td align="center">
+      <img src="https://storage.googleapis.com/pjm-assets-team-1/profile/Daniel.png" width="100px;" alt="Daniel"/><br />
+      <sub><b>Daniel</b></sub><br />
+      <sub>Full Stack Developer</sub>
     </td>
   </tr>
 </table>
